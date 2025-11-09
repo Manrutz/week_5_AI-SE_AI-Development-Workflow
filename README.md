@@ -34,8 +34,7 @@ Each stage is modularized within the `src/` directory for maintainability and re
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/<yourusername>/AI_Development_Workflow.git
-cd AI_Development_Workflow
+git clone https://github.com/Manrutz/week_5_AI-SE_AI-Development-Workflow/tree/main
 ```
 
 **2. Create a Virtual Environment**
